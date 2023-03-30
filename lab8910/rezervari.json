@@ -1,0 +1,19 @@
+{
+  "361": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "id_entitate": "361",
+    "id_film": "2",
+    "id_card_client": null,
+    "data_ora": {
+      "py/object": "datetime.datetime",
+      "__reduce__": [
+        {
+          "py/type": "datetime.datetime"
+        },
+        [
+          "B5YDARYZAAAAAA=="
+        ]
+      ]
+    }
+  }
+}

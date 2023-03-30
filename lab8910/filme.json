@@ -1,0 +1,26 @@
+{
+  "58": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "58",
+    "titlu": "lNtvhDYqUy",
+    "an_aparitie": 2069,
+    "pret_bilet": 91,
+    "program": "nu"
+  },
+  "2": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "2",
+    "titlu": "2",
+    "an_aparitie": 2,
+    "pret_bilet": 2.0,
+    "program": "da"
+  },
+  "1": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "1",
+    "titlu": "1",
+    "an_aparitie": 1,
+    "pret_bilet": 1.0,
+    "program": "da"
+  }
+}

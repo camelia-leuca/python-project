@@ -1,0 +1,152 @@
+{
+  "1": {
+    "py/object": "Domain.card_client.CardClient",
+    "id_entitate": "1",
+    "nume": "1",
+    "prenume": "1",
+    "CNP": "1234567888888",
+    "data_nasterii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "BFcBAQ=="
+        ]
+      ]
+    },
+    "data_inregistrarii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "BFcBAQ=="
+        ]
+      ]
+    },
+    "puncte_acumulate": 13
+  },
+  "2": {
+    "py/object": "Domain.card_client.CardClient",
+    "id_entitate": "2",
+    "nume": "2",
+    "prenume": "2",
+    "CNP": "2222222222222",
+    "data_nasterii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "CK4CAg=="
+        ]
+      ]
+    },
+    "data_inregistrarii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "CK4CAg=="
+        ]
+      ]
+    },
+    "puncte_acumulate": 29
+  },
+  "304": {
+    "py/object": "Domain.card_client.CardClient",
+    "id_entitate": "304",
+    "nume": "MElAEdvJfL",
+    "prenume": "eOKIiBxUxM",
+    "CNP": "4406445414125",
+    "data_nasterii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B9oLGA=="
+        ]
+      ]
+    },
+    "data_inregistrarii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B7gJFQ=="
+        ]
+      ]
+    },
+    "puncte_acumulate": 350
+  },
+  "264": {
+    "py/object": "Domain.card_client.CardClient",
+    "id_entitate": "264",
+    "nume": "lFnxhmZeBj",
+    "prenume": "UjRWHPeTot",
+    "CNP": "5563078066713",
+    "data_nasterii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B5IJDg=="
+        ]
+      ]
+    },
+    "data_inregistrarii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B7YFGw=="
+        ]
+      ]
+    },
+    "puncte_acumulate": 308
+  },
+  "448": {
+    "py/object": "Domain.card_client.CardClient",
+    "id_entitate": "448",
+    "nume": "oaUoWBOMZg",
+    "prenume": "UjblEkQdph",
+    "CNP": "8077880233904",
+    "data_nasterii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B4cKGA=="
+        ]
+      ]
+    },
+    "data_inregistrarii": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B20KBQ=="
+        ]
+      ]
+    },
+    "puncte_acumulate": 230
+  }
+}
